@@ -31,5 +31,13 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/atul-2192/switchboard-commonDto</url>
+        </repository>
+    </distributionManagement>
+
 
 </project>
